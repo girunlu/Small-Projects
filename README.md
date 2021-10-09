@@ -2,7 +2,7 @@
 - 👀 I’m interested in data science and AI
 - 🌱 I’m currently learning data science
 - 💞️ I’m looking to collaborate on python data analize
-- 📫 How to reach me ig:girunlu
+- 📫 How to reach me: girayn5@gmail.com
 
 <!---
 girunlu/girunlu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
