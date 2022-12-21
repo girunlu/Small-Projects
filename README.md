@@ -1,2 +1,2 @@
 
-Here are some little projects that I did while taking Phyton course from Middle East Technical University
+- Deep Learning / Computer Vision Engineer that currently specializing in the field of Medical AI
