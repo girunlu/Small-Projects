@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @girunlu
-- 👀 I’m interested in data science and DL
-- 🌱 I’m currently learning data science
-- 💞️ I’m looking to collaborate on python data analize
+- 👀 I’m interested in Deep Learning / Computer Vision
+- 🌱 I’m currently specializing in Medical AI
 - 📫 How to reach me: girayn5@gmail.com
 
 <!---
